@@ -1,16 +1,8 @@
 # first_flutter_app
 
-A new Flutter project.
+A new Flutter project for experimentation. Create with the Application temaple from the VS Code Flutter extension.
 
-## Getting Started
+See [my personal notes on Flutter](https://www.notion.so/b389e5ff4bf04bc89784e30810e2fa31) and [my hands-on learning session notes](https://www.notion.so/cc468ab06cb442659a83c9f78d0e4972). Notes may be private (sharing disabled).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+See also [Flutter official docs](https://docs.flutter.dev/) for tutorials,
 samples, guidance on mobile development, and a full API reference.
